@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,typescript,react,mysql" />
+<img src="https://skillicons.dev/icons?i=js,typescript,react,mysql,css" />
 
 </div>
 
