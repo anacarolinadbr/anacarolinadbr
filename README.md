@@ -5,7 +5,7 @@
 * 🎓 Cursando Técnico em Desenvolvimento de Sistemas — Senac
 * 📍 São Leopoldo - RS
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias utilizadas
 
 <div align="center">
 
